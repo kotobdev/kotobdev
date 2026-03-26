@@ -3,8 +3,6 @@
 ### Hi there! 👋
 
 I'm KOTOB.\
-Most of my commits are in private repositories.\
-But trust me, they're all super cool.\
 Currently spending a chunk of my time contributing to the [**Delta-V**](https://github.com/DeltaV-Station/Delta-v) fork of the open-source game [**Space Station 14**](https://github.com/space-wizards/space-station-14). It's fun. Give it a try sometime.
 
 <h3 align="left">Languages and Tools:</h3>
